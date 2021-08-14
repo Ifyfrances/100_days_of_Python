@@ -61,9 +61,7 @@ BMI_as_int = str(BMI_as_int) # in order to concatenate it with string, you cast 
 #print results
 print("Your Body Mass Index is " + BMI_as_int) 
 
-more_info = input("More info? ")
-if more_info = yes
- print()
+
 #########
 # using int removes the numbers after the decimal place, 
 # hence it is better to use the round() to round it to nearest whole number
